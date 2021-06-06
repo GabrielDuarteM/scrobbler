@@ -43,7 +43,7 @@
     "copy-webpack-plugin": "^4.5.1",
     "cpx": "^1.5.0",
     "fork-ts-checker-webpack-plugin": "^0.4.1",
-    "jest": "^23.3.0",
+    "jest": "^27.0.0",
     "prettier": "^1.12.1",
     "rimraf": "^2.6.2",
     "semantic-release": "^15.1.7",
